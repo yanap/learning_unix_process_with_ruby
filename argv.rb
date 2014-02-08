@@ -1,3 +1,5 @@
+p ARGV
+
 # ユーザーからhelpオプションを渡されたか確認する
 ARGV.include?('--help')
 if ARGV.include?('--help'); p 'help'; end
