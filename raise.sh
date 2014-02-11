@@ -1,0 +1,3 @@
+ruby raise.rb
+
+echo $?
