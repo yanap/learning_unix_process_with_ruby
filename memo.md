@@ -16,6 +16,8 @@ httperf(1)
 
 setenv(3) getenv(3) environ(7)
 
+kill(2) sigaction(2) signal(7)
+
 
 ## 実行例
 
